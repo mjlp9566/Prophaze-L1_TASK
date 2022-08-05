@@ -53,10 +53,10 @@ Client:
 </ol>
 <pre><b>NOTE:</b>We can make the code to get the hostname(or)IP from user and the payload also can be get as an input</pre>                                                                  
 
-enc.py:
+encrypt.py:
 ------
 <h3>NOTE:THIS FILE IS NOT USED</h3>
-<p>we can use this 'enc.py' file to encrypt the payload(cat--->0x38 0x39 0x20 0x35 0x30 0x20 0x37 0x30 0x20 0x34 0x38)</p>
+<p>we can use this 'encrypt.py' file to encrypt the payload(cat--->0x38 0x39 0x20 0x35 0x30 0x20 0x37 0x30 0x20 0x34 0x38)</p>
 
 <h1>Screenshots:</h1>
 
